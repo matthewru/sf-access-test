@@ -148,10 +148,10 @@ export default function Home() {
             <div className="md:w-1/2 md:pl-10">
               <h2 className="text-3xl font-bold text-amber-950 mb-6">Our Coffee Journey</h2>
               <p className="text-amber-900 mb-6">
-                At Brew Haven, we believe that great coffee is an art form. Since 2010, we've been sourcing the finest beans from sustainable farms around the world and roasting them to perfection in our local roastery.
+                At Brew Haven, we believe that great coffee is an art form. Since 2010, we&apos;ve been sourcing the finest beans from sustainable farms around the world and roasting them to perfection in our local roastery.
               </p>
               <p className="text-amber-900 mb-6">
-                Our master roasters have over 30 years of combined experience, ensuring that every batch meets our exacting standards. We're committed to ethical sourcing practices and supporting the communities where our beans are grown.
+                Our master roasters have over 30 years of combined experience, ensuring that every batch meets our exacting standards. We&apos;re committed to ethical sourcing practices and supporting the communities where our beans are grown.
               </p>
               <div className="grid grid-cols-2 gap-4">
                 <div className="bg-amber-100 p-4 rounded-lg">
@@ -182,7 +182,7 @@ export default function Home() {
           <div className="text-center mb-16">
             <h2 className="text-3xl font-bold text-amber-950 mb-4">What Our Customers Say</h2>
             <p className="text-xl text-amber-800 max-w-3xl mx-auto">
-              Don't just take our word for it - hear from our coffee-loving community.
+              Don&apos;t just take our word for it - hear from our coffee-loving community.
             </p>
           </div>
 
@@ -200,7 +200,7 @@ export default function Home() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-amber-900">
-                    "I've tried coffee shops all over the city, but Brew Haven is my absolute favorite. Their Ethiopian pour-over is unmatched, and the baristas always remember my name and order. It's become my morning ritual and the perfect place to start my day."
+                  &quot;I&apos;ve tried coffee shops all over the city, but Brew Haven is my absolute favorite. Their Ethiopian pour-over is unmatched, and the baristas always remember my name and order. It&apos;s become my morning ritual and the perfect place to start my day.&quot;
                   </p>
                 </CardContent>
                 <CardFooter className="text-sm text-amber-700">
@@ -216,11 +216,11 @@ export default function Home() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-amber-900">
-                    "As someone who's extremely particular about coffee, I can confidently say that Brew Haven stands out for their attention to detail. Their single-origin selection is carefully curated, and their roasting profile brings out the unique characteristics of each bean. A must-visit for serious coffee lovers."
+                  &quot;As someone who&apos;s extremely particular about coffee, I can confidently say that Brew Haven stands out for their attention to detail. Their single-origin selection is carefully curated, and their roasting profile brings out the unique characteristics of each bean. A must-visit for serious coffee lovers.&quot;
                   </p>
                 </CardContent>
                 <CardFooter className="text-sm text-amber-700">
-                  ★★★★★ - Featured in "Best Coffee Shops Monthly"
+                  ★★★★★ - Featured in &quot;Best Coffee Shops Monthly&quot;
                 </CardFooter>
               </Card>
             </TabsContent>
@@ -232,7 +232,7 @@ export default function Home() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-amber-900">
-                    "We've been ordering our office coffee exclusively from Brew Haven for the past two years. Their subscription service is reliable, the coffee is always fresh, and they've been accommodating with our changing needs. Our team productivity has definitely improved since we upgraded our coffee game!"
+                    &quot;We&apos;ve been ordering our office coffee exclusively from Brew Haven for the past two years. Their subscription service is reliable, the coffee is always fresh, and they&apos;ve been accommodating with our changing needs. Our team productivity has definitely improved since we upgraded our coffee game!&quot;
                   </p>
                 </CardContent>
                 <CardFooter className="text-sm text-amber-700">
@@ -402,7 +402,7 @@ export default function Home() {
           <div className="text-center mb-16">
             <h2 className="text-3xl font-bold mb-4">Get In Touch</h2>
             <p className="text-xl text-amber-200 max-w-3xl mx-auto">
-              Have questions about our coffee, catering, or wholesale options? We'd love to hear from you.
+              Have questions about our coffee, catering, or wholesale options? We&apos;d love to hear from you.
             </p>
           </div>
 
@@ -532,7 +532,7 @@ export default function Home() {
                 <h3 className="text-xl font-bold text-amber-50">Brew Haven</h3>
               </div>
               <p className="mb-4">
-                Crafting exceptional coffee experiences since 2010. From bean to cup, we're dedicated to quality and sustainability.
+                Crafting exceptional coffee experiences since 2010. From bean to cup, we&apos;re dedicated to quality and sustainability.
               </p>
               <p className="text-sm">
                 &copy; {new Date().getFullYear()} Brew Haven. All rights reserved.

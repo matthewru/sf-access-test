@@ -3,3 +3,5 @@ declare namespace JSX {
     'eqlec-tech': React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement>;
   }
 } 
+
+declare module 'eqlectech-accessibility';

@@ -6,8 +6,7 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "postinstall": "mkdir -p public/gemini_calls && cp node_modules/eqlectech-accessibility/index.js public/ && cp node_modules/eqlectech-accessibility/gemini_calls/gemini.js public/gemini_calls/"
+    "lint": "next lint"
   },
   "dependencies": {
     "@icons-pack/react-simple-icons": "^12.3.0",
@@ -17,8 +16,8 @@
     "@types/react-simple-maps": "^3.0.6",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "eqlectech-accessibility": "/Users/hmac/Workspace/sf-access",
     "embla-carousel-react": "^8.5.2",
+    "eqlectech-accessibility": "^0.0.3",
     "lucide-react": "^0.482.0",
     "next": "15.2.2",
     "react": "^18.3.1",

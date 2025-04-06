@@ -27,6 +27,8 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        <script src="index.js" type="module"></script>
+        <eqlec-tech api-key={process.env.NEXT_PUBLIC_GEMINI_API_KEY} />
         {children}
       </body>
     </html>

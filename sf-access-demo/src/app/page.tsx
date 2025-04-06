@@ -50,7 +50,7 @@ export default function Home() {
             </div>
             <div className="md:w-1/2 md:pl-10">
               <Image 
-                src="/placeholder.svg?height=400&width=500" 
+                src="/img/making-coffee.webp" 
                 alt="A barista preparing specialty coffee" 
                 width={500} 
                 height={400}
@@ -138,7 +138,7 @@ export default function Home() {
           <div className="flex flex-col md:flex-row items-center">
             <div className="md:w-1/2 mb-10 md:mb-0">
               <Image 
-                src="/placeholder.svg?height=400&width=500" 
+                src="/img/coffee-beans.png" 
                 alt="Coffee beans being roasted" 
                 width={500} 
                 height={400}
@@ -332,7 +332,7 @@ export default function Home() {
           </div>
           <div className="mx-auto grid max-w-5xl items-center gap-6 py-12 lg:grid-cols-2 lg:gap-12">
             <Image
-              src="/placeholder.svg?height=310&width=550"
+              src="/img/pour-over.jpg"
               width="550"
               height="310"
               alt="Person brewing pour-over coffee"

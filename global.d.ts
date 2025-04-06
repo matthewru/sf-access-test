@@ -1,6 +1,6 @@
 declare namespace JSX {
     interface IntrinsicElements {
-      'eclec-tech': React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement>;
+      'eqlec-tech': React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement>;
     }
   }
   

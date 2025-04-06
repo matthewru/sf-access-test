@@ -43,7 +43,7 @@ export default function Home() {
                 <Button size="lg" className="bg-amber-500 hover:bg-amber-600 text-amber-950">
                   Order Online
                 </Button>
-                <Button size="lg" variant="outline" className="border-amber-50 text-amber-50 hover:bg-amber-50 hover:text-amber-950">
+                <Button size="lg" variant="outline" className="border-amber-50 hover:text-amber-50 bg-amber-50 text-amber-900 hover:bg-amber-900">
                   View Menu
                 </Button>
               </div>
@@ -51,7 +51,7 @@ export default function Home() {
             <div className="md:w-1/2 md:pl-10">
               <Image 
                 src="/img/making-coffee.webp" 
-                alt="A barista preparing specialty coffee" 
+                alt="A barista preparing a specialty coffee" 
                 width={500} 
                 height={400}
                 className="rounded-lg shadow-xl"
